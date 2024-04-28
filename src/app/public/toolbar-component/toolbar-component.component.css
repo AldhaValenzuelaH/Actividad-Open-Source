@@ -1,0 +1,20 @@
+.toolbar-component {
+  width: 100%;
+  display: flex;
+
+  align-items: center;
+}
+
+h1{
+  margin-right: auto;
+}
+
+.content{
+  margin-left: auto;
+  display: flex;
+  flex-direction: row;
+}
+
+button {
+  padding: 5px;
+}
